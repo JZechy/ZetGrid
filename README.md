@@ -4,6 +4,11 @@ např. při iteraci nad seznamem entit.
 
 Komponenta funguje jako továrnička, kterou přidáte do konfiguračního souboru a pak už jen vytváříte její instanci.
 
+```
+services:
+	- Zet\Grid\IGridFactory
+```
+
 ## Ukázový kod
 ```php
 protected function createComponentUserGrid() {
