@@ -4,6 +4,8 @@ např. při iteraci nad seznamem entit.
 
 Komponenta funguje jako továrnička, kterou přidáte do konfiguračního souboru a pak už jen vytváříte její instanci.
 
+* [Rychlá dokumentace](https://github.com/JZechy/ZetGrid/wiki/Rychl%C3%A1-dokumentace)
+
 ```
 services:
 	- Zet\Grid\IGridFactory
