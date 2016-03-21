@@ -10,6 +10,11 @@ services:
 ```
 * [Rychlá dokumentace](https://github.com/JZechy/ZetGrid/wiki/Rychl%C3%A1-dokumentace)
 
+## Composer
+```
+composer require jzechy/zetgrid
+```
+
 ## Ukázový kod
 ```php
 protected function createComponentUserGrid() {
