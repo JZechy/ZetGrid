@@ -1,0 +1,7 @@
+{
+    "name": "JZechy/ZetGrid",
+    "description": "Jednoduchá komponenta (Datagrid) pro vykreslování seznamů v Nette.",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
