@@ -1,6 +1,8 @@
 {
     "name": "jzechy/zetgrid",
     "description": "Jednoduchá komponenta (Datagrid) pro vykreslování seznamů v Nette.",
+    "homepage": "https://github.com/JZechy/ZetGrid/",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     }
