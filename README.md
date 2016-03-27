@@ -1,4 +1,9 @@
 # ZetGrid nette component
+
+[![Latest stable](https://img.shields.io/packagist/v/jzechy/zetgrid.svg?style=flat-square)](https://packagist.org/packages/jzechy/zetgrid)
+[![Downloads Total](https://img.shields.io/packagist/dt/jzechy/zetgrid.svg?style=flat-square)](https://packagist.org/packages/jzechy/zetgrid)
+[![Open Issues](https://img.shields.io/github/issues/jzechy/zetgrid.svg?style=flat-square)](https://github.com/JZechy/ZetGrid/issues)
+
 ZetGrid je jednoduchá komponenta v Nette, která umožňuje vytváření tzv. datagridu a kterou programátor plní za běhu dle svých potřeb,
 např. při iteraci nad seznamem entit.
 
